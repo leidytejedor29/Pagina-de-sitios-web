@@ -42,8 +42,9 @@ nav ul{
     padding:10px 20px 
     color:;
     font-family:times;
-    font-size:px;
+    font-size:40px;
     text-decoration:none;
+    padding-left:40px;
 
 }
 .menú li a:hover{
@@ -79,6 +80,15 @@ nav ul{
     border-left:8px solid blue;
     color: blue;
 }
+#submenu ul{
+margin-bottom:0px;
+width:1000px;
+background-color:#0E9CFA;
+
+}
+
+
+
 
 footer{
     background-color:#0E9CFA;
